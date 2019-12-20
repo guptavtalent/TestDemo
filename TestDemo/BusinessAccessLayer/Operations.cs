@@ -9,10 +9,10 @@ namespace TestDemo.BusinessAccessLayer
     {
         public int  Addition()
         {
-            int c;
-            int a = 10;
-            int b = 20;
-            return   c = a + b;
+            
+            var a = 10;
+            var b = 20;
+            return   a + b;
 
 
         }
